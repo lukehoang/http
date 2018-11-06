@@ -10,6 +10,7 @@ import java.net.Socket;
 import java.util.Date;
 
 public class Server {
+	
 	// main method - create a web server with a web page displaying date and client IP Address
     public static void main(String[] args) throws IOException
     {
@@ -41,7 +42,7 @@ public class Server {
             Socket client = socket.accept();
 
             // file writer
-            File log = new File("MyServer.txt");
+            File log = new File("Server.txt");
 
             // write to text file
             PrintWriter outFile = new PrintWriter(log);
@@ -61,7 +62,7 @@ public class Server {
 
             // send the webpage requested as an HTML page
             // Webpage Title
-            out.println("<h1 align='center'>Thien's CIS 3329 - Lab Assignment #6</h1>");
+            out.println("<h1 align='center'>Luke Hoang - Lab Assignment 6 - CIS 3329-002 Fall2018</h1>");
 
             // display the client ip address
             String myIP = client.getInetAddress().toString();

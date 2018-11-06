@@ -1,0 +1,11 @@
+Mon Nov 05 22:49:59 EST 2018
+IP Address: /0:0:0:0:0:0:0:1
+Host: localhost:9999
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9,vi;q=0.8
+Cookie: SQLiteManager_currentLangue=2; PHPSESSID=cfbd663aff5d6c7d0d7d1ea4f2947bd0; io=YiYwFdJ_afCbiNC5AABh; ASP.NET_SessionId=drcyvrwtvupgoo5qdzq45hwt
+
